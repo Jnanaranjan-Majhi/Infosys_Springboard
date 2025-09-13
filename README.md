@@ -37,5 +37,3 @@ It is divided into milestone-based Jupyter Notebooks.
   - statsmodels  
   - prophet  
   - tensorflow / keras  
-
-Install dependencies via:
